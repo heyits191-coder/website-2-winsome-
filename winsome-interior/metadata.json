@@ -1,0 +1,7 @@
+{
+  "name": "Winsome Interior",
+  "description": "Premium interior design firm serving Pune and Mumbai, specializing in luxury residential and commercial spaces.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
